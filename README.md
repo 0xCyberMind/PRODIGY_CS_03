@@ -24,19 +24,19 @@ The script provides a rating based on these factors, ranging from **Very Weak** 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/password-strength-checker.git
+    https://github.com/0xCyberMind/PRODIGY_CS_03.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd password-strength-checker
+    cd task_03.py
     ```
 
 3. Run the script:
 
     ```bash
-    python password_checker.py
+    python task_03.py
     ```
 
 4. Enter a password when prompted. The script will display its strength and provide suggestions if needed.
